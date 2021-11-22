@@ -3,4 +3,8 @@
 restore.sh
 Dockerfile
 docker-compose.yml
+<<<<<<< HEAD
 backup.sh
+=======
+backup.sh
+>>>>>>> 2e9f6f2a9bdbe6156654dd22f90a6a1b9ee03366
