@@ -1,0 +1,6 @@
+*
+!.gitignore
+restore.sh
+Dockerfile
+docker-compose.yml
+backup.sh
